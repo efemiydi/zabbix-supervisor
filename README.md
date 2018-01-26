@@ -9,5 +9,4 @@ Very simple monitoring of Supervisor with Zabbix Agent
 - Add hosts to Template App Supervisor template
 
 Tested with:
-Zabbix Server 3.0.14
-Supervisor 3.0
+Zabbix Server 3.0.14, Supervisor 3.0, Debian 8 & Ubuntu 16
