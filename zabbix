@@ -1,2 +1,1 @@
-# /etc/sudoers.d/zabbix
 zabbix ALL=(root) NOPASSWD: /usr/bin/supervisorctl status
