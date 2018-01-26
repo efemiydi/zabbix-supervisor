@@ -9,8 +9,8 @@
     </groups>
     <templates>
         <template>
-            <template>Template App Supervisord</template>
-            <name>Template App Supervisord</name>
+            <template>Template App Supervisor</template>
+            <name>Template App Supervisor</name>
             <description/>
             <groups>
                 <group>
