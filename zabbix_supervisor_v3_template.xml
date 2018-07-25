@@ -75,7 +75,7 @@
     </templates>
     <triggers>
         <trigger>
-            <expression>{Template App Supervisord:supervisor.status.strlen()}&gt;0</expression>
+            <expression>{Template App Supervisor:supervisor.status.strlen()}&gt;0</expression>
             <name>Supervisor service problem {ITEM.LASTVALUE}</name>
             <url/>
             <status>0</status>
